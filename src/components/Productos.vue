@@ -11,7 +11,7 @@
               <h3 class="text-xl font-bold">$ {{product.price }}</h3>
             </div>
             <div class="flex items-end">
-              <button class="w-full bg-cyan-600 p-2 text-white rounded-xl">Comprar</button>
+              <button class="w-full bg-teal-400 p-2 text-white rounded-xl">Comprar</button>
             </div>
           </div>
         </div>

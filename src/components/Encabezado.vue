@@ -7,7 +7,7 @@
                     <input class="w-full border-2 rounded-xl p-2" type="text">
                 </div>
                 <div class="flex w-full md:w-1/2 justify-end">
-                    <button class="right-0 font-bold">Cerrar Sesion</button>
+                    <button class="right-0 font-bold mt-4 lg:mt-0">Cerrar Sesion</button>
                 </div>
             </div>
         </div>

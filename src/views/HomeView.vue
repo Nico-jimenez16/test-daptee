@@ -4,7 +4,6 @@
       <H1 class="text-3xl font-bold">Test Nicolas Jimenez</H1>
       <img class="m-8" src="@/assets/Logo-Daptee-Nuevo.svg" alt="">
     </div>
-    
   </div>
 </template>
 
